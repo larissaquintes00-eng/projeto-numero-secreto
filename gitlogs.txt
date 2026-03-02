@@ -1,0 +1,25 @@
+commit 978964b6fa62170b24acaf0d3a4a75ea97a131b7 (HEAD -> main, origin/main, origin/HEAD)
+Author: Larissa Quintes <Larissaquintes00@gmail.com>
+Date:   Mon Mar 2 02:07:33 2026 -0300
+
+    remoção de arquivo duplicado
+
+commit a1d25542158ca04706dfa80d3ebe1d63958b15d1
+Author: Larissa Quintes <Larissaquintes00@gmail.com>
+Date:   Mon Mar 2 02:03:10 2026 -0300
+
+    Readme atualizado
+
+commit c9b4eb700d3232e4af2cded638942e8c2b06d3d0
+Author: Larissa Quintes <larissaquintes00@gmail.com>
+Date:   Sun Mar 1 23:27:54 2026 -0300
+
+    Create README.md
+
+commit 739db9f56425ba07467929e356ba67c7ce1b9df4
+Author: Larissa Quintes <Larissaquintes00@gmail.com>
+Date:   Sat Feb 14 23:42:07 2026 -0300
+
+    Atualização numero 10
+
+commit 93384848eacc67d2f30395ba78020e4da08c2c5d
